@@ -12,7 +12,7 @@ This is my personal portfolio project for the GitHub Capstone Labs assignment.
 
 ## 🔗 Live Site
 
-[https://fourie-c0der.github.io/fourie-portfolio/](https://fourie-c0der.github.io/fourie-porfolio/0)
+[https://fourie-c0der.github.io/fourie-porfolio/](https://fourie-c0der.github.io/fourie-porfolio/)
 
 ## ✅ What's Working
 
